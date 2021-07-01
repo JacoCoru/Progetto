@@ -1,0 +1,2 @@
+# Progetto
+Il progetto riguarda l'analisi dei campionati di SerieA a partire della stagione 2010/2011 fino alla stagione conclusa nell'estate del 2020, valutando in modo specifico l'andamento dei team nel bel mazzo della pandemia. L'analisi verte principalmente sui dati relativi alle squadre di alta classifica e sulle società che lottano per la salvezza; è presente un particolare approfondimento sui risultati ottenuti dall'Atalanta.
